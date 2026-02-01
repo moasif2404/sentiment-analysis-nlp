@@ -1,0 +1,8 @@
+Csv
+
+text,sentiment
+I love this product,positive
+This is amazing,positive
+Very bad experience,negative
+It is okay,neutral
+Not good not basd,neutral
