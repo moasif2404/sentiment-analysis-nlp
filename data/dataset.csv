@@ -1,8 +1,8 @@
-Csv
-
 text,sentiment
 I love this product,positive
-This is amazing,positive
-Very bad experience,negative
-It is okay,neutral
-Not good not basd,neutral
+This is the worst service ever,negative
+The experience was okay,neutral
+Amazing quality and fast delivery,positive
+I am very disappointed,negative
+Not bad but could be better,neutral
+
