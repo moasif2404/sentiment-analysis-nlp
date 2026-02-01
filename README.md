@@ -1,22 +1,22 @@
-# sentiment-analysis-nlp
-Sentiment Analysis on text using NLP and Machine Learning
-##Overview
-This project performs sentiment analysis on test using Natural Language Processing and Machine Learning techniques.
+## Overview
+This project performs Sentiment Analysis on text data using Natural Language Processing (NLP) and Machine Learning.
+
+The model classifies text into:
+- Positive
+- Negative
+- Neutral
+
+## Project Structure
+
+sentiment-analysis-nlp/ │ ├── data/ │ └── dataset.csv ├── src/ │ └── sentiment_analysis.py ├── requirements.txt └── README.md
+Copy code
 
 ## Tech Stack
 - Python
-- NLTK
-- scikit-learn
 - Pandas
+- Scikit-learn
+- NLP (TF-IDF Vectorizer)
 
-- ## Features
-- Text preprocessing
-- Machine learning model training
-- Sentiment prediction
-
-- ## Use Case
-- Classifies input text as Positive, Negative, or Neutral sentiment.
-
-- ## Future Improvements
-- Flask web app
-- AWS deployment
+## How to Run
+1. Clone the repository
+2. git clone https://github.com/moasif2404/sentiment-analysis-nlp.git
